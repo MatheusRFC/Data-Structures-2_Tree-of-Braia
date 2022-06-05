@@ -1,0 +1,679 @@
+# depslib dependency file v1.0
+1573318190 source:c:\users\paulo\desktop\ed2 project\tad_chaptertree\bintree_rotation.c
+	<stdio.h>
+	<stdlib.h>
+	"BinTree_Rotation.h"
+
+1571354469 c:\users\paulo\desktop\ed2 project\tad_chaptertree\bintree_rotation.h
+
+1573702079 source:c:\users\paulo\desktop\ed2 project\tad_skilltree\binarytree.c
+
+1574382106 c:\users\paulo\desktop\ed2 project\tad_skilltree\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1575052360 source:c:\users\paulo\desktop\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1573617348 source:c:\users\paulo\desktop\ed2 project\game\console_colors\colors.c
+	"Colors.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1573617945 c:\users\paulo\desktop\ed2 project\game\console_colors\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\game\console_colors\conio2.h
+
+1573654103 c:\users\paulo\desktop\ed2 project\game\console_colors\atari.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617348 source:c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\game\console_colors\colors.c
+	"Colors.h"
+
+1573617348 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1573318190 source:c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\tad_chaptertree\bintree_rotation.c
+	<stdio.h>
+	<stdlib.h>
+	"BinTree_Rotation.h"
+
+1571354469 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\tad_chaptertree\bintree_rotation.h
+
+1573663905 source:c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\tad_skilltree\binarytree.c
+	"BinaryTree.h"
+
+1573663896 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\tad_skilltree\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1573665487 source:c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\game\main.c
+	"../PlayerData/Player.c"
+	"Console_Colors/atari.c"
+
+1573665645 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\playerdata\player.c
+	"Player.h"
+
+1573654103 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\game\console_colors\atari.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1573665643 c:\users\matheus\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v4.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/BinaryTree.h"
+
+1574638766 c:\users\paulo\desktop\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1573699955 source:c:\users\paulo\desktop\ed2 project\playerdata\player.c
+	"Player.h"
+
+1573617348 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\game\console_colors\colors.c
+	"Colors.h"
+
+1573617348 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1573665706 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\playerdata\player.c
+	"Player.h"
+
+1573665643 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/BinaryTree.h"
+
+1573663896 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\tad_skilltree\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1573318190 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\tad_chaptertree\bintree_rotation.c
+	<stdio.h>
+	<stdlib.h>
+	"BinTree_Rotation.h"
+
+1571354469 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\tad_chaptertree\bintree_rotation.h
+
+1573663905 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v7.0\ed2 project\tad_skilltree\binarytree.c
+	"BinaryTree.h"
+
+1573698774 source:c:\users\paulo\desktop\ed2 project\playerdata\inventory.c
+	"Inventory.h"
+
+1574797310 c:\users\paulo\desktop\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574797207 c:\users\paulo\desktop\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574800990 c:\users\paulo\desktop\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+	"../TAD_DialogHash/Dialogs_PlayerLines.h"
+	"../TAD_DialogHash/DialogsNPC.h"
+
+1573700838 source:c:\users\paulo\desktop\ed2 project\combat\combat.c
+
+1573617348 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\game\console_colors\colors.c
+	"Colors.h"
+
+1573617348 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1573701126 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\game\main.c
+	"Console_Colors/atari.c"
+	"../Maps/Maps.h"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\game\console_colors\atari.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1573701042 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+
+1573701955 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+
+1573701985 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/BinaryTree.h"
+
+1573702078 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\tad_skilltree\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1573701007 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\combat\combat.h
+
+1573701942 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\playerdata\inventory.c
+
+1573699955 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\playerdata\player.c
+	"Player.h"
+
+1573318190 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\tad_chaptertree\bintree_rotation.c
+	<stdio.h>
+	<stdlib.h>
+	"BinTree_Rotation.h"
+
+1571354469 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\tad_chaptertree\bintree_rotation.h
+
+1573702079 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v11.0\ed2 project\tad_skilltree\binarytree.c
+
+1573701126 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\game\main.c
+	"Console_Colors/atari.c"
+	"../Maps/Maps.h"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\game\console_colors\atari.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1573701042 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+
+1573701955 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\playerdata\inventory.h
+	"Player.h"
+
+1573701985 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/BinaryTree.h"
+
+1573702078 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\tad_skilltree\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1573702248 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1573701007 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\combat\combat.h
+
+1573318190 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\tad_chaptertree\bintree_rotation.c
+	<stdio.h>
+	<stdlib.h>
+	"BinTree_Rotation.h"
+
+1571354469 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\tad_chaptertree\bintree_rotation.h
+
+1573702079 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v10.5\ed2 project\tad_skilltree\binarytree.c
+
+1574635563 c:\users\paulo\desktop\ed2 project\game\console_colors\atari.h
+	<windows.h>
+	"conio2.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574651998 c:\users\paulo\desktop\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574635563 c:\users\paulo\desktop\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574540128 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\console_colors\atari.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1574473560 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+
+1574478276 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574401159 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574474163 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574478331 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574453709 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574478924 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v16.0\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574553402 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+	"../TAD_DialogHash/execute.c"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\console_colors\atari.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1574473560 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+
+1574478276 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574401159 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574474163 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574478331 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574453709 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574478924 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574553414 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\tad_dialoghash\execute.c
+	"Dialogs.h"
+
+1574552523 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\tad_dialoghash\dialogs.h
+	"HashTable.h"
+
+1574553340 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v17.0\ed2 project\tad_dialoghash\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574554307 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\console_colors\atari.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1574554106 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+	"../TAD_DialogHash/Dialogs.h"
+
+1574478276 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574401159 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574474163 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574478331 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574453709 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574478924 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574552523 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\tad_dialoghash\dialogs.h
+	"HashTable.h"
+
+1574553340 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v18.0\ed2 project\tad_dialoghash\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574557352 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1573654103 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\console_colors\atari.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1573617242 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\console_colors\conio2.h
+	<conio.h>
+	<windows.h>
+
+1574557321 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+	"../TAD_DialogHash/Dialogs.h"
+	"../TAD_DialogHash/DialogsNPC.h"
+
+1574478276 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574401159 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574474163 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574478331 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574474212 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574453709 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574478924 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574552523 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\tad_dialoghash\dialogs.h
+	"HashTable.h"
+
+1574553340 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\tad_dialoghash\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574556729 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\tad_dialoghash\dialogsnpc.h
+	"HashTableNPC.h"
+
+1574557197 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v19.0\ed2 project\tad_dialoghash\hashtablenpc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574557635 c:\users\paulo\desktop\ed2 project\tad_dialoghash\dialogs.h
+	"HashTable.h"
+
+1574557635 c:\users\paulo\desktop\ed2 project\tad_dialoghash\hashtable.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574635563 c:\users\paulo\desktop\ed2 project\tad_dialoghash\dialogsnpc.h
+	"HashTableNPC.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\tad_dialoghash\hashtablenpc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574635563 c:\users\paulo\desktop\ed2 project\tad_dialoghash\dialogs_playerlines.h
+	"HashTable_PlayerLines.h"
+
+1574635563 c:\users\paulo\desktop\ed2 project\tad_dialoghash\hashtable_playerlines.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574634547 source:h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1574629648 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\console_colors\atari.h
+	<windows.h>
+	"conio2.h"
+
+1574629635 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\console_colors\conio2.h
+
+1574628940 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+	"../TAD_DialogHash/Dialogs_PlayerLines.h"
+	"../TAD_DialogHash/DialogsNPC.h"
+
+1574557635 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574628563 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574557635 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574629662 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574557635 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574635471 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574628587 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574557635 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574625327 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\tad_dialoghash\dialogs_playerlines.h
+	"HashTable_PlayerLines.h"
+
+1574624424 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\tad_dialoghash\hashtable_playerlines.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574627320 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\tad_dialoghash\dialogsnpc.h
+	"HashTableNPC.h"
+
+1574623305 h:\onedrive\one drive\4 periodo\estrutura de dados 2\projeto tree of braia\v20.0\ed2 project\tad_dialoghash\hashtablenpc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1575052360 source:c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\main.c
+	"Console_Colors/atari.h"
+	"../Maps/Maps.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\console_colors\atari.h
+	<windows.h>
+	"conio2.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\console_colors\conio2.h
+
+1574800990 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\maps\maps.h
+	"../PlayerData/Inventory.h"
+	"../Combat/Combat.h"
+	"../TAD_DialogHash/Dialogs_PlayerLines.h"
+	"../TAD_DialogHash/DialogsNPC.h"
+
+1574797310 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\playerdata\inventory.h
+	"Player.h"
+	"../Game/Audio Engine/menuaudio.h"
+
+1574638766 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\playerdata\player.h
+	"../TAD_SkillTree/Player_SkillTree.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\tad_skilltree\player_skilltree.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"../Game/Console_Colors/Colors.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\console_colors\colors.h
+	<windows.h>
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\audio engine\menuaudio.h
+	<windows.h>
+	<process.h>
+
+1574797207 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\combat\combat.h
+	"../EnemyData/Enemies.h"
+	"../Game/Audio Engine/audio.h"
+
+1574651998 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\enemydata\enemies.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\game\audio engine\audio.h
+	<windows.h>
+	<process.h>
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\tad_dialoghash\dialogs_playerlines.h
+	"HashTable_PlayerLines.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\tad_dialoghash\hashtable_playerlines.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\tad_dialoghash\dialogsnpc.h
+	"HashTableNPC.h"
+
+1574635563 c:\users\paulo\desktop\university + production\fac\quarto período\estrutura de dados 2\ed2 project\tad_dialoghash\hashtablenpc.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

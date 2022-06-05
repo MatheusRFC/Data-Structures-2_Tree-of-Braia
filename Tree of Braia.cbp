@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tree of Braia" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="Compiled/bin/Debug/Tree of Braia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Compiled/obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="Compiled/bin/Release/Tree of Braia" prefix_auto="1" extension_auto="1" />
+				<Option object_output="Compiled/obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+			<Target title="default">
+				<Option output=".exe" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Combat/Combat.h" />
+		<Unit filename="EnemyData/Enemies.h" />
+		<Unit filename="Game/Audio Engine/audio.h" />
+		<Unit filename="Game/Audio Engine/menuaudio.h" />
+		<Unit filename="Game/Console_Colors/Colors.h" />
+		<Unit filename="Game/Console_Colors/atari.h" />
+		<Unit filename="Game/main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Maps/Maps.h" />
+		<Unit filename="PlayerData/Inventory.h" />
+		<Unit filename="PlayerData/Player.h" />
+		<Unit filename="TAD_DialogHash/DialogsNPC.h" />
+		<Unit filename="TAD_DialogHash/Dialogs_PlayerLines.h" />
+		<Unit filename="TAD_DialogHash/HashTableNPC.h" />
+		<Unit filename="TAD_DialogHash/HashTable_PlayerLines.h" />
+		<Unit filename="TAD_SkillTree/Player_SkillTree.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
